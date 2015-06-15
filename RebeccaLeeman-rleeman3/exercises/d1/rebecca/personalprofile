@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<head>
+  <title>Rebecca Leeman</title>
+  <style>
+    body {
+      text-align: center;
+      background: url(http://i.imgur.com/xWP0sKW.jpg?1);
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+      font-size: 12px;
+      line-height: 20px;
+    }
+    img {
+      border: 5px solid navy;
+      border-radius: 20px;
+      
+    }
+    h1 {
+        font-size: 48px;
+        color: navy;
+        border: 1px white;
+      
+    }
+    h2 {
+      font-size: 24px;
+      color: yellow;
+      }
+    h3{
+      font-size: 20px;
+      color: white;
+    }
+    h4{
+      font-size: 20px;
+      color: yellow;
+    }
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    
+  
+  </style>
+</head>
+<body>
+  <img src="http://i.imgur.com/okaDZGM.jpg?1">
+  <h1> Rebecca Leeman </h1>
+ <h2>  University of Michigan </h2>
+ <h3> Class of 2018 </h3>
+<h4> Rleeman3@gmail.com</h4>
+
+  
+</body>
