@@ -1,0 +1,15 @@
+<h1>Good Eats, Bru</h1>
+<p>Restaurant Name: <%= @place %></p>
+<p>Recommended Order: <%= @recommendation %></p>
+
+<a href="/rest">Favorite CT Restaurants</a> | <a href="/about">About Us</a> | <a href="/home">Return Home</a>
+<br/><br/><a href="https://www.uber.com/">Click for Uber.</a>
+<h1>Our Favorite Cape Town Restaurants</h1>
+<ul>
+<% @restaurants.each do |place| %>
+<li><%= place %></li>
+<% end %>
+</ul>
+
+<a href="/about">About Us</a> | <a href="/rest/recommendation">Dishes to Devour</a> | <a href="/home">Return Home</a>
+<br/><br/><a href="https://www.uber.com/">Click for Uber.</a>
